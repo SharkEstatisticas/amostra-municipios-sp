@@ -1,0 +1,28 @@
+{
+  "name": "Shark Estatística: painéis",
+  "dataColors": ["#377EB8", "#403A45", "#4DAF4A", "#984EA3", "#E41A1C", "#3579B1", "#3C823B", "#0A0310"],
+  "background": "#FFFFFF",
+  "foreground": "#0A0310",
+  "tableAccent": "#377EB8",
+  "good": "#3C823B",
+  "neutral": "#403A45",
+  "bad": "#E41A1C",
+  "maximum": "#377EB8",
+  "center": "#CFCDD1",
+  "minimum": "#F4F4F4",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 20, "color": "#0A0310" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#0A0310" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#403A45" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#377EB8" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "grid": [{ "gridlineColor": { "solid": { "color": "#F4F4F4" } }, "gridlineThickness": 1 }],
+        "lineStyles": [{ "strokeWidth": 2 }],
+        "outline": [{ "show": false }]
+      }
+    }
+  }
+}

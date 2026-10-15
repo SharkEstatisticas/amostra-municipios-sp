@@ -1,0 +1,113 @@
+[OK] 645 municípios na dimensão
+[OK] chave (município, ano, indicador) sem duplicata
+[OK] IPCA com 12 meses em cada ano de 2015 a 2025
+[OK] dependencia_transf: SQL = pandas: 7078 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] educacao_pc: SQL = pandas: 7078 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] ideb: SQL = pandas: 3038 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] pib_pc: SQL = pandas: 5805 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] pre_natal_7mais: SQL = pandas: 6181 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] receita_pc: SQL = pandas: 7078 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] receita_total: SQL = pandas: 7078 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] saude_pc: SQL = pandas: 7077 valores, só no SQL 0, só no pandas 0, maior diferença 0.00e+00
+[OK] quartis por faixa (SQL) = NumPy: maior diferença relativa 0.00e+00
+[OK] tabela de referência cobre todos os grupos de dados
+[OK] população do Siconfi dentro de 5% da do IBGE em 99% dos casos, 2015 a 2021 (mesma base): 4509 pares; mediana 0.77%, p99 4.39%
+[info] 2024 e 2025: o Siconfi difere do IBGE em mediana 2.38% e p99 11.99% (bases diferentes; o painel usa a do IBGE)
+[OK] população de 2023 entre as de 2022 e 2024
+[OK] declarações excluídas por inconsistência: menos de 1% das 7.095: 27 exclusões em 15 municípios
+[OK] dependência de transferências entre 0 e 100%: mín 26.5 máx 98.8
+[OK] pré-natal 7+ entre 0 e 100%
+[OK] Ideb entre 0 e 10
+[OK] receita_pc positivo
+[OK] saude_pc positivo
+[OK] educacao_pc positivo
+[OK] pib_pc positivo
+[OK] receita_total positivo
+
+Cobertura: municípios com valor, por indicador e ano (de 645)
+ano                 2015  2016  2017  2018  2019  2020  2021  2022  2023  2024  2025
+indicador_id                                                                        
+dependencia_transf   642   642   644   643   640   645   645   644   645   645   643
+educacao_pc          642   642   644   642   642   643   645   644   645   645   644
+ideb                 596     0   613     0   609     0   597     0   623     0     0
+pib_pc               645   645   645   645   645   645   645   645   645     0     0
+pre_natal_7mais      621   622   624   627   620   619   615   616   609   608     0
+receita_pc           642   642   644   643   640   645   645   644   645   645   643
+receita_total        642   642   644   643   640   645   645   644   645   645   643
+saude_pc             640   642   644   642   642   644   645   644   645   645   644
+[OK] previsão dentro das faixas, 95% contém 80% e o ponto: 1926 linhas
+
+Cobertura observada das faixas na origem 2022 (calibradas com 2019 a 2021):
+ origem_fora             grupo  horizonte  nivel  n_teste  cobertura_sem_ajuste  cobertura_com_ajuste
+        2019     A. Até 10 mil          1     80      261             84.674330             90.038314
+        2019     A. Até 10 mil          2     80      261             82.375479             90.038314
+        2019     A. Até 10 mil          3     80      261             61.302682             70.881226
+        2019 B. De 10 a 50 mil          1     80      232             80.603448             87.500000
+        2019 B. De 10 a 50 mil          2     80      232             83.189655             90.948276
+        2019 B. De 10 a 50 mil          3     80      232             62.931034             75.431034
+        2019 C. Mais de 50 mil          1     80      136             82.352941             86.029412
+        2019 C. Mais de 50 mil          2     80      136             78.676471             85.294118
+        2019 C. Mais de 50 mil          3     80      136             81.617647             84.558824
+        2020     A. Até 10 mil          1     80      261             89.655172             95.402299
+        2020     A. Até 10 mil          2     80      261             66.283525             78.160920
+        2020     A. Até 10 mil          3     80      261             90.804598             95.019157
+        2020 B. De 10 a 50 mil          1     80      232             88.362069             95.258621
+        2020 B. De 10 a 50 mil          2     80      232             66.379310             78.448276
+        2020 B. De 10 a 50 mil          3     80      232             87.068966             92.241379
+        2020 C. Mais de 50 mil          1     80      136             86.029412             91.911765
+        2020 C. Mais de 50 mil          2     80      136             75.000000             86.029412
+        2020 C. Mais de 50 mil          3     80      136             83.088235             89.705882
+        2021     A. Até 10 mil          1     80      261             68.582375             83.141762
+        2021     A. Até 10 mil          2     80      261             92.337165             95.019157
+        2021     A. Até 10 mil          3     80      261             93.486590             95.785441
+        2021 B. De 10 a 50 mil          1     80      232             62.931034             75.862069
+        2021 B. De 10 a 50 mil          2     80      232             85.344828             91.379310
+        2021 B. De 10 a 50 mil          3     80      232             89.224138             93.965517
+        2021 C. Mais de 50 mil          1     80      136             62.500000             78.676471
+        2021 C. Mais de 50 mil          2     80      136             84.558824             91.176471
+        2021 C. Mais de 50 mil          3     80      136             80.147059             87.500000
+        2022     A. Até 10 mil          1     80      261             36.781609             54.789272
+        2022     A. Até 10 mil          2     80      261             35.632184             52.873563
+        2022     A. Até 10 mil          3     80      261             29.885057             48.275862
+        2022 B. De 10 a 50 mil          1     80      232             52.586207             72.413793
+        2022 B. De 10 a 50 mil          2     80      232             52.586207             62.931034
+        2022 B. De 10 a 50 mil          3     80      232             36.206897             54.741379
+        2022 C. Mais de 50 mil          1     80      136             58.088235             72.794118
+        2022 C. Mais de 50 mil          2     80      136             73.529412             83.088235
+        2022 C. Mais de 50 mil          3     80      136             69.852941             77.941176
+        2019     A. Até 10 mil          1     95      261             95.402299             97.318008
+        2019     A. Até 10 mil          2     95      261             95.019157             96.168582
+        2019     A. Até 10 mil          3     95      261             81.226054             89.655172
+        2019 B. De 10 a 50 mil          1     95      232             92.241379             94.396552
+        2019 B. De 10 a 50 mil          2     95      232             93.965517             96.120690
+        2019 B. De 10 a 50 mil          3     95      232             84.482759             90.948276
+        2019 C. Mais de 50 mil          1     95      136             93.382353             94.117647
+        2019 C. Mais de 50 mil          2     95      136             94.117647             97.794118
+        2019 C. Mais de 50 mil          3     95      136             94.852941             96.323529
+        2020     A. Até 10 mil          1     95      261             98.084291             98.850575
+        2020     A. Até 10 mil          2     95      261             94.252874             96.934866
+        2020     A. Até 10 mil          3     95      261             97.318008             98.467433
+        2020 B. De 10 a 50 mil          1     95      232             97.844828             98.706897
+        2020 B. De 10 a 50 mil          2     95      232             91.810345             96.120690
+        2020 B. De 10 a 50 mil          3     95      232             96.982759             97.844828
+        2020 C. Mais de 50 mil          1     95      136             95.588235             97.058824
+        2020 C. Mais de 50 mil          2     95      136             94.852941             95.588235
+        2020 C. Mais de 50 mil          3     95      136             94.852941             95.588235
+        2021     A. Até 10 mil          1     95      261             92.720307             94.252874
+        2021     A. Até 10 mil          2     95      261             96.934866             98.467433
+        2021     A. Até 10 mil          3     95      261             98.084291             98.467433
+        2021 B. De 10 a 50 mil          1     95      232             90.517241             93.965517
+        2021 B. De 10 a 50 mil          2     95      232             96.551724             98.706897
+        2021 B. De 10 a 50 mil          3     95      232             96.982759             98.275862
+        2021 C. Mais de 50 mil          1     95      136             96.323529             99.264706
+        2021 C. Mais de 50 mil          2     95      136             95.588235             95.588235
+        2021 C. Mais de 50 mil          3     95      136             96.323529             97.794118
+        2022     A. Até 10 mil          1     95      261             80.459770             89.655172
+        2022     A. Até 10 mil          2     95      261             81.609195             90.421456
+        2022     A. Até 10 mil          3     95      261             73.946360             85.823755
+        2022 B. De 10 a 50 mil          1     95      232             89.224138             93.534483
+        2022 B. De 10 a 50 mil          2     95      232             90.948276             93.534483
+        2022 B. De 10 a 50 mil          3     95      232             85.344828             93.103448
+        2022 C. Mais de 50 mil          1     95      136             86.029412             91.911765
+        2022 C. Mais de 50 mil          2     95      136             94.117647             95.588235
+        2022 C. Mais de 50 mil          3     95      136             87.500000             91.176471

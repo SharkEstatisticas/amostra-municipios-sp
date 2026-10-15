@@ -1,0 +1,28 @@
+cod_ibge,municipio,ano,campo,valor_real_2025,media_dos_outros_anos,motivo
+3508306,Cabrália Paulista,2019,despesa_educacao,1976817.6252726037,8140649.879435035,fora de 1/4 a 4 vezes a média dos outros anos
+3508306,Cabrália Paulista,2019,despesa_saude,2303155.086891129,9247683.845554564,fora de 1/4 a 4 vezes a média dos outros anos
+3510500,Caraguatatuba,2015,despesa_saude,62012254.42440385,262470290.6514094,fora de 1/4 a 4 vezes a média dos outros anos
+3510609,Carapicuíba,2020,despesa_educacao,0.0,,valor zero ou negativo
+3510609,Carapicuíba,2020,despesa_saude,0.0,,valor zero ou negativo
+3510906,Cássia dos Coqueiros,2016,despesa_educacao,0.0,,valor zero ou negativo
+3510906,Cássia dos Coqueiros,2016,despesa_saude,0.0,,valor zero ou negativo
+3515707,Ferraz de Vasconcelos,2018,despesa_educacao,0.0,,valor zero ou negativo
+3515707,Ferraz de Vasconcelos,2018,despesa_saude,0.0,,valor zero ou negativo
+3522158,Itaoca,2022,receita_corrente_liquida,914659.1309126216,25065514.44706989,fora de 1/4 a 4 vezes a média dos outros anos
+3523800,Itobi,2016,despesa_educacao,0.0,,valor zero ou negativo
+3523800,Itobi,2016,despesa_saude,0.0,,valor zero ou negativo
+3523800,Itobi,2016,receita_corrente_liquida,2944703.1211002953,30568685.511134643,fora de 1/4 a 4 vezes a média dos outros anos
+3533700,Ocauçu,2019,receita_corrente_liquida,-4009461.480338716,,valor zero ou negativo
+3534005,Onda Verde,2015,despesa_saude,2182582.5934873614,9127996.07813121,fora de 1/4 a 4 vezes a média dos outros anos
+3538204,Pinhalzinho,2022,despesa_educacao,1685959.5555279187,25896621.013586085,fora de 1/4 a 4 vezes a média dos outros anos
+3538204,Pinhalzinho,2022,despesa_saude,2368478.978879019,14648030.928116173,fora de 1/4 a 4 vezes a média dos outros anos
+3539905,Poloni,2017,despesa_educacao,0.0,,valor zero ou negativo
+3539905,Poloni,2017,despesa_saude,0.0,,valor zero ou negativo
+3539905,Poloni,2017,receita_corrente_liquida,1140084.5873611995,32426625.807106875,fora de 1/4 a 4 vezes a média dos outros anos
+3543238,Ribeirão dos Índios,2016,receita_corrente_liquida,432620.2148508644,24008272.236670442,fora de 1/4 a 4 vezes a média dos outros anos
+3543238,Ribeirão dos Índios,2020,despesa_educacao,1126403.2771920199,4877968.6212695455,fora de 1/4 a 4 vezes a média dos outros anos
+3544004,Rio das Pedras,2025,receita_corrente_liquida,-7201221.01999999,,valor zero ou negativo
+3547650,Santa Salete,2019,receita_corrente_liquida,3140027.9146489734,20958077.52169609,fora de 1/4 a 4 vezes a média dos outros anos
+3553500,Tapiraí,2015,despesa_educacao,3222129.606170808,12972908.41514251,fora de 1/4 a 4 vezes a média dos outros anos
+3553500,Tapiraí,2015,despesa_saude,2328822.556506771,12341152.231590668,fora de 1/4 a 4 vezes a média dos outros anos
+3553500,Tapiraí,2015,receita_corrente_liquida,9221716.909224223,43314555.63274927,fora de 1/4 a 4 vezes a média dos outros anos

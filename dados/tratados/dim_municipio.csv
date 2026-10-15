@@ -1,0 +1,646 @@
+cod_ibge,municipio,regiao_imediata,regiao_intermediaria,populacao_censo_2022,faixa_porte
+3500105,Adamantina,Adamantina - Lucélia,Presidente Prudente,34687,4. De 20 a 50 mil
+3500204,Adolfo,São José do Rio Preto,São José do Rio Preto,4351,1. Até 5 mil
+3500303,Aguaí,São João da Boa Vista,Campinas,32072,4. De 20 a 50 mil
+3500402,Águas da Prata,São João da Boa Vista,Campinas,7369,2. De 5 a 10 mil
+3500501,Águas de Lindóia,Amparo,Campinas,17930,3. De 10 a 20 mil
+3500550,Águas de Santa Bárbara,Avaré,Sorocaba,7177,2. De 5 a 10 mil
+3500600,Águas de São Pedro,Piracicaba,Campinas,2780,1. Até 5 mil
+3500709,Agudos,Bauru,Bauru,37680,4. De 20 a 50 mil
+3500758,Alambari,Itapetininga,Sorocaba,6141,2. De 5 a 10 mil
+3500808,Alfredo Marcondes,Presidente Prudente,Presidente Prudente,4445,1. Até 5 mil
+3500907,Altair,São José do Rio Preto,São José do Rio Preto,3451,1. Até 5 mil
+3501004,Altinópolis,Ribeirão Preto,Ribeirão Preto,16818,3. De 10 a 20 mil
+3501103,Alto Alegre,Birigui - Penápolis,Araçatuba,3841,1. Até 5 mil
+3501152,Alumínio,Sorocaba,Sorocaba,17301,3. De 10 a 20 mil
+3501202,Álvares Florence,Votuporanga,São José do Rio Preto,3915,1. Até 5 mil
+3501301,Álvares Machado,Presidente Prudente,Presidente Prudente,27255,4. De 20 a 50 mil
+3501400,Álvaro de Carvalho,Marília,Marília,4808,1. Até 5 mil
+3501509,Alvinlândia,Marília,Marília,2885,1. Até 5 mil
+3501608,Americana,Campinas,Campinas,237240,6. De 100 a 500 mil
+3501707,Américo Brasiliense,Araraquara,Araraquara,33019,4. De 20 a 50 mil
+3501806,Américo de Campos,Votuporanga,São José do Rio Preto,5870,2. De 5 a 10 mil
+3501905,Amparo,Amparo,Campinas,68008,5. De 50 a 100 mil
+3502002,Analândia,Rio Claro,Campinas,4589,1. Até 5 mil
+3502101,Andradina,Andradina,Araçatuba,59783,5. De 50 a 100 mil
+3502200,Angatuba,Itapetininga,Sorocaba,24022,4. De 20 a 50 mil
+3502309,Anhembi,Botucatu,Bauru,5674,2. De 5 a 10 mil
+3502408,Anhumas,Presidente Prudente,Presidente Prudente,4023,1. Até 5 mil
+3502507,Aparecida,Guaratinguetá,São José dos Campos,32569,4. De 20 a 50 mil
+3502606,Aparecida d'Oeste,Jales,São José do Rio Preto,4086,1. Até 5 mil
+3502705,Apiaí,Itapeva,Sorocaba,24585,4. De 20 a 50 mil
+3502754,Araçariguama,Sorocaba,Sorocaba,21522,4. De 20 a 50 mil
+3502804,Araçatuba,Araçatuba,Araçatuba,200124,6. De 100 a 500 mil
+3502903,Araçoiaba da Serra,Sorocaba,Sorocaba,32443,4. De 20 a 50 mil
+3503000,Aramina,Ituverava,Ribeirão Preto,5420,2. De 5 a 10 mil
+3503109,Arandu,Avaré,Sorocaba,6885,2. De 5 a 10 mil
+3503158,Arapeí,Cruzeiro,São José dos Campos,2330,1. Até 5 mil
+3503208,Araraquara,Araraquara,Araraquara,242228,6. De 100 a 500 mil
+3503307,Araras,Araras,Campinas,130866,6. De 100 a 500 mil
+3503356,Arco-Íris,Tupã,Marília,2044,1. Até 5 mil
+3503406,Arealva,Bauru,Bauru,8130,2. De 5 a 10 mil
+3503505,Areias,Cruzeiro,São José dos Campos,3577,1. Até 5 mil
+3503604,Areiópolis,Botucatu,Bauru,10130,3. De 10 a 20 mil
+3503703,Ariranha,Catanduva,São José do Rio Preto,7602,2. De 5 a 10 mil
+3503802,Artur Nogueira,Campinas,Campinas,51456,5. De 50 a 100 mil
+3503901,Arujá,São Paulo,São Paulo,86678,5. De 50 a 100 mil
+3503950,Aspásia,Jales,São José do Rio Preto,1842,1. Até 5 mil
+3504008,Assis,Assis,Marília,101409,6. De 100 a 500 mil
+3504107,Atibaia,Bragança Paulista,Campinas,158647,6. De 100 a 500 mil
+3504206,Auriflama,Araçatuba,Araçatuba,13692,3. De 10 a 20 mil
+3504305,Avaí,Bauru,Bauru,4483,1. Até 5 mil
+3504404,Avanhandava,Birigui - Penápolis,Araçatuba,11263,3. De 10 a 20 mil
+3504503,Avaré,Avaré,Sorocaba,92805,5. De 50 a 100 mil
+3504602,Bady Bassitt,São José do Rio Preto,São José do Rio Preto,27260,4. De 20 a 50 mil
+3504701,Balbinos,Bauru,Bauru,3887,1. Até 5 mil
+3504800,Bálsamo,São José do Rio Preto,São José do Rio Preto,9596,2. De 5 a 10 mil
+3504909,Bananal,Cruzeiro,São José dos Campos,9969,2. De 5 a 10 mil
+3505005,Barão de Antonina,Itapeva,Sorocaba,3531,1. Até 5 mil
+3505104,Barbosa,Birigui - Penápolis,Araçatuba,5640,2. De 5 a 10 mil
+3505203,Bariri,Jaú,Bauru,31595,4. De 20 a 50 mil
+3505302,Barra Bonita,Jaú,Bauru,34346,4. De 20 a 50 mil
+3505351,Barra do Chapéu,Itapeva,Sorocaba,5179,2. De 5 a 10 mil
+3505401,Barra do Turvo,Registro,Sorocaba,6876,2. De 5 a 10 mil
+3505500,Barretos,Barretos,Ribeirão Preto,122485,6. De 100 a 500 mil
+3505609,Barrinha,Ribeirão Preto,Ribeirão Preto,32092,4. De 20 a 50 mil
+3505708,Barueri,São Paulo,São Paulo,316473,6. De 100 a 500 mil
+3505807,Bastos,Tupã,Marília,21503,4. De 20 a 50 mil
+3505906,Batatais,Ribeirão Preto,Ribeirão Preto,58402,5. De 50 a 100 mil
+3506003,Bauru,Bauru,Bauru,379146,6. De 100 a 500 mil
+3506102,Bebedouro,Barretos,Ribeirão Preto,76373,5. De 50 a 100 mil
+3506201,Bento de Abreu,Araçatuba,Araçatuba,2606,1. Até 5 mil
+3506300,Bernardino de Campos,Ourinhos,Marília,11607,3. De 10 a 20 mil
+3506359,Bertioga,Santos,São Paulo,64188,5. De 50 a 100 mil
+3506409,Bilac,Birigui - Penápolis,Araçatuba,7319,2. De 5 a 10 mil
+3506508,Birigui,Birigui - Penápolis,Araçatuba,118979,6. De 100 a 500 mil
+3506607,Biritiba Mirim,São Paulo,São Paulo,29683,4. De 20 a 50 mil
+3506706,Boa Esperança do Sul,Araraquara,Araraquara,12978,3. De 10 a 20 mil
+3506805,Bocaina,Jaú,Bauru,11259,3. De 10 a 20 mil
+3506904,Bofete,Botucatu,Bauru,10460,3. De 10 a 20 mil
+3507001,Boituva,Sorocaba,Sorocaba,61081,5. De 50 a 100 mil
+3507100,Bom Jesus dos Perdões,Bragança Paulista,Campinas,22006,4. De 20 a 50 mil
+3507159,Bom Sucesso de Itararé,Itapeva,Sorocaba,3555,1. Até 5 mil
+3507209,Borá,Assis,Marília,907,1. Até 5 mil
+3507308,Boracéia,Jaú,Bauru,4715,1. Até 5 mil
+3507407,Borborema,Araraquara,Araraquara,14226,3. De 10 a 20 mil
+3507456,Borebi,Bauru,Bauru,2713,1. Até 5 mil
+3507506,Botucatu,Botucatu,Bauru,145155,6. De 100 a 500 mil
+3507605,Bragança Paulista,Bragança Paulista,Campinas,176811,6. De 100 a 500 mil
+3507704,Braúna,Birigui - Penápolis,Araçatuba,5356,2. De 5 a 10 mil
+3507753,Brejo Alegre,Birigui - Penápolis,Araçatuba,2565,1. Até 5 mil
+3507803,Brodowski,Ribeirão Preto,Ribeirão Preto,25201,4. De 20 a 50 mil
+3507902,Brotas,Jaú,Bauru,23898,4. De 20 a 50 mil
+3508009,Buri,Itapeva,Sorocaba,20250,4. De 20 a 50 mil
+3508108,Buritama,Birigui - Penápolis,Araçatuba,17210,3. De 10 a 20 mil
+3508207,Buritizal,Ituverava,Ribeirão Preto,4356,1. Até 5 mil
+3508306,Cabrália Paulista,Bauru,Bauru,4299,1. Até 5 mil
+3508405,Cabreúva,Jundiaí,Campinas,47011,4. De 20 a 50 mil
+3508504,Caçapava,São José dos Campos,São José dos Campos,96202,5. De 50 a 100 mil
+3508603,Cachoeira Paulista,Cruzeiro,São José dos Campos,31564,4. De 20 a 50 mil
+3508702,Caconde,São José do Rio Pardo - Mococa,Campinas,17101,3. De 10 a 20 mil
+3508801,Cafelândia,Lins,Bauru,16654,3. De 10 a 20 mil
+3508900,Caiabu,Presidente Prudente,Presidente Prudente,3712,1. Até 5 mil
+3509007,Caieiras,São Paulo,São Paulo,95032,5. De 50 a 100 mil
+3509106,Caiuá,Presidente Epitácio-Presidente Venceslau,Presidente Prudente,5466,2. De 5 a 10 mil
+3509205,Cajamar,São Paulo,São Paulo,92689,5. De 50 a 100 mil
+3509254,Cajati,Registro,Sorocaba,28515,4. De 20 a 50 mil
+3509304,Cajobi,Barretos,Ribeirão Preto,9133,2. De 5 a 10 mil
+3509403,Cajuru,Ribeirão Preto,Ribeirão Preto,23830,4. De 20 a 50 mil
+3509452,Campina do Monte Alegre,Itapetininga,Sorocaba,5954,2. De 5 a 10 mil
+3509502,Campinas,Campinas,Campinas,1139047,7. Mais de 500 mil
+3509601,Campo Limpo Paulista,Jundiaí,Campinas,77632,5. De 50 a 100 mil
+3509700,Campos do Jordão,Taubaté - Pindamonhangaba,São José dos Campos,46974,4. De 20 a 50 mil
+3509809,Campos Novos Paulista,Marília,Marília,4888,1. Até 5 mil
+3509908,Cananéia,Registro,Sorocaba,12289,3. De 10 a 20 mil
+3509957,Canas,Guaratinguetá,São José dos Campos,4931,1. Até 5 mil
+3510005,Cândido Mota,Assis,Marília,29449,4. De 20 a 50 mil
+3510104,Cândido Rodrigues,Araraquara,Araraquara,2889,1. Até 5 mil
+3510153,Canitar,Ourinhos,Marília,6283,2. De 5 a 10 mil
+3510203,Capão Bonito,Itapeva,Sorocaba,46337,4. De 20 a 50 mil
+3510302,Capela do Alto,Sorocaba,Sorocaba,22866,4. De 20 a 50 mil
+3510401,Capivari,Piracicaba,Campinas,50068,5. De 50 a 100 mil
+3510500,Caraguatatuba,Caraguatatuba - Ubatuba - São Sebastião,São José dos Campos,134873,6. De 100 a 500 mil
+3510609,Carapicuíba,São Paulo,São Paulo,386984,6. De 100 a 500 mil
+3510708,Cardoso,Votuporanga,São José do Rio Preto,11345,3. De 10 a 20 mil
+3510807,Casa Branca,São João da Boa Vista,Campinas,28083,4. De 20 a 50 mil
+3510906,Cássia dos Coqueiros,Ribeirão Preto,Ribeirão Preto,2799,1. Até 5 mil
+3511003,Castilho,Andradina,Araçatuba,19977,3. De 10 a 20 mil
+3511102,Catanduva,Catanduva,São José do Rio Preto,115791,6. De 100 a 500 mil
+3511201,Catiguá,Catanduva,São José do Rio Preto,7003,2. De 5 a 10 mil
+3511300,Cedral,São José do Rio Preto,São José do Rio Preto,12618,3. De 10 a 20 mil
+3511409,Cerqueira César,Avaré,Sorocaba,21469,4. De 20 a 50 mil
+3511508,Cerquilho,Sorocaba,Sorocaba,44695,4. De 20 a 50 mil
+3511607,Cesário Lange,Tatuí,Sorocaba,19048,3. De 10 a 20 mil
+3511706,Charqueada,Piracicaba,Campinas,15535,3. De 10 a 20 mil
+3511904,Clementina,Birigui - Penápolis,Araçatuba,6982,2. De 5 a 10 mil
+3512001,Colina,Barretos,Ribeirão Preto,18486,3. De 10 a 20 mil
+3512100,Colômbia,Barretos,Ribeirão Preto,6629,2. De 5 a 10 mil
+3512209,Conchal,Araras,Campinas,28101,4. De 20 a 50 mil
+3512308,Conchas,Botucatu,Bauru,15232,3. De 10 a 20 mil
+3512407,Cordeirópolis,Limeira,Campinas,24514,4. De 20 a 50 mil
+3512506,Coroados,Birigui - Penápolis,Araçatuba,5400,2. De 5 a 10 mil
+3512605,Coronel Macedo,Avaré,Sorocaba,4280,1. Até 5 mil
+3512704,Corumbataí,Rio Claro,Campinas,4195,1. Até 5 mil
+3512803,Cosmópolis,Campinas,Campinas,59773,5. De 50 a 100 mil
+3512902,Cosmorama,Votuporanga,São José do Rio Preto,8719,2. De 5 a 10 mil
+3513009,Cotia,São Paulo,São Paulo,274413,6. De 100 a 500 mil
+3513108,Cravinhos,Ribeirão Preto,Ribeirão Preto,33281,4. De 20 a 50 mil
+3513207,Cristais Paulista,Franca,Ribeirão Preto,9272,2. De 5 a 10 mil
+3513306,Cruzália,Assis,Marília,2108,1. Até 5 mil
+3513405,Cruzeiro,Cruzeiro,São José dos Campos,74961,5. De 50 a 100 mil
+3513504,Cubatão,Santos,São Paulo,112476,6. De 100 a 500 mil
+3513603,Cunha,Guaratinguetá,São José dos Campos,22110,4. De 20 a 50 mil
+3513702,Descalvado,São Carlos,Araraquara,31756,4. De 20 a 50 mil
+3513801,Diadema,São Paulo,São Paulo,393237,6. De 100 a 500 mil
+3513850,Dirce Reis,Jales,São José do Rio Preto,1620,1. Até 5 mil
+3513900,Divinolândia,São José do Rio Pardo - Mococa,Campinas,11158,3. De 10 a 20 mil
+3514007,Dobrada,Araraquara,Araraquara,8759,2. De 5 a 10 mil
+3514106,Dois Córregos,Jaú,Bauru,24510,4. De 20 a 50 mil
+3514205,Dolcinópolis,Jales,São José do Rio Preto,2207,1. Até 5 mil
+3514304,Dourado,São Carlos,Araraquara,8096,2. De 5 a 10 mil
+3514403,Dracena,Dracena,Presidente Prudente,45474,4. De 20 a 50 mil
+3514502,Duartina,Bauru,Bauru,12328,3. De 10 a 20 mil
+3514601,Dumont,Ribeirão Preto,Ribeirão Preto,9471,2. De 5 a 10 mil
+3514700,Echaporã,Marília,Marília,6205,2. De 5 a 10 mil
+3514809,Eldorado,Registro,Sorocaba,13069,3. De 10 a 20 mil
+3514908,Elias Fausto,Campinas,Campinas,17699,3. De 10 a 20 mil
+3514924,Elisiário,Catanduva,São José do Rio Preto,3138,1. Até 5 mil
+3514957,Embaúba,Catanduva,São José do Rio Preto,2323,1. Até 5 mil
+3515004,Embu das Artes,São Paulo,São Paulo,250691,6. De 100 a 500 mil
+3515103,Embu-Guaçu,São Paulo,São Paulo,66970,5. De 50 a 100 mil
+3515129,Emilianópolis,Presidente Prudente,Presidente Prudente,3014,1. Até 5 mil
+3515152,Engenheiro Coelho,Limeira,Campinas,19566,3. De 10 a 20 mil
+3515186,Espírito Santo do Pinhal,São João da Boa Vista,Campinas,39816,4. De 20 a 50 mil
+3515194,Espírito Santo do Turvo,Ourinhos,Marília,4157,1. Até 5 mil
+3515202,Estrela d'Oeste,Fernandópolis,São José do Rio Preto,9417,2. De 5 a 10 mil
+3515301,Estrela do Norte,Presidente Prudente,Presidente Prudente,2703,1. Até 5 mil
+3515350,Euclides da Cunha Paulista,Presidente Prudente,Presidente Prudente,7924,2. De 5 a 10 mil
+3515400,Fartura,Piraju,Marília,16641,3. De 10 a 20 mil
+3515509,Fernandópolis,Fernandópolis,São José do Rio Preto,71186,5. De 50 a 100 mil
+3515608,Fernando Prestes,Catanduva,São José do Rio Preto,5942,2. De 5 a 10 mil
+3515657,Fernão,Marília,Marília,1656,1. Até 5 mil
+3515707,Ferraz de Vasconcelos,São Paulo,São Paulo,179198,6. De 100 a 500 mil
+3515806,Flora Rica,Dracena,Presidente Prudente,1487,1. Até 5 mil
+3515905,Floreal,Votuporanga,São José do Rio Preto,2733,1. Até 5 mil
+3516002,Flórida Paulista,Adamantina - Lucélia,Presidente Prudente,12958,3. De 10 a 20 mil
+3516101,Florínea,Assis,Marília,3851,1. Até 5 mil
+3516200,Franca,Franca,Ribeirão Preto,352536,6. De 100 a 500 mil
+3516309,Francisco Morato,São Paulo,São Paulo,165139,6. De 100 a 500 mil
+3516408,Franco da Rocha,São Paulo,São Paulo,144849,6. De 100 a 500 mil
+3516507,Gabriel Monteiro,Birigui - Penápolis,Araçatuba,2763,1. Até 5 mil
+3516606,Gália,Marília,Marília,6380,2. De 5 a 10 mil
+3516705,Garça,Marília,Marília,42110,4. De 20 a 50 mil
+3516804,Gastão Vidigal,Araçatuba,Araçatuba,3252,1. Até 5 mil
+3516853,Gavião Peixoto,Araraquara,Araraquara,4702,1. Até 5 mil
+3516903,General Salgado,Araçatuba,Araçatuba,10312,3. De 10 a 20 mil
+3517000,Getulina,Marília,Marília,10232,3. De 10 a 20 mil
+3517109,Glicério,Birigui - Penápolis,Araçatuba,4138,1. Até 5 mil
+3517208,Guaiçara,Lins,Bauru,11239,3. De 10 a 20 mil
+3517307,Guaimbê,Marília,Marília,5512,2. De 5 a 10 mil
+3517406,Guaíra,Barretos,Ribeirão Preto,39279,4. De 20 a 50 mil
+3517505,Guapiaçu,São José do Rio Preto,São José do Rio Preto,21711,4. De 20 a 50 mil
+3517604,Guapiara,Itapeva,Sorocaba,17071,3. De 10 a 20 mil
+3517703,Guará,Ituverava,Ribeirão Preto,18606,3. De 10 a 20 mil
+3517802,Guaraçaí,Andradina,Araçatuba,7441,2. De 5 a 10 mil
+3517901,Guaraci,Barretos,Ribeirão Preto,10350,3. De 10 a 20 mil
+3518008,Guarani d'Oeste,Fernandópolis,São José do Rio Preto,1968,1. Até 5 mil
+3518107,Guarantã,Lins,Bauru,6427,2. De 5 a 10 mil
+3518206,Guararapes,Araçatuba,Araçatuba,31043,4. De 20 a 50 mil
+3518305,Guararema,São Paulo,São Paulo,31236,4. De 20 a 50 mil
+3518404,Guaratinguetá,Guaratinguetá,São José dos Campos,118044,6. De 100 a 500 mil
+3518503,Guareí,Itapetininga,Sorocaba,15013,3. De 10 a 20 mil
+3518602,Guariba,Ribeirão Preto,Ribeirão Preto,37498,4. De 20 a 50 mil
+3518701,Guarujá,Santos,São Paulo,287634,6. De 100 a 500 mil
+3518800,Guarulhos,São Paulo,São Paulo,1291771,7. Mais de 500 mil
+3518859,Guatapará,Ribeirão Preto,Ribeirão Preto,7320,2. De 5 a 10 mil
+3518909,Guzolândia,Araçatuba,Araçatuba,4246,1. Até 5 mil
+3519006,Herculândia,Tupã,Marília,9125,2. De 5 a 10 mil
+3519055,Holambra,Campinas,Campinas,15094,3. De 10 a 20 mil
+3519071,Hortolândia,Campinas,Campinas,236641,6. De 100 a 500 mil
+3519105,Iacanga,Bauru,Bauru,10437,3. De 10 a 20 mil
+3519204,Iacri,Tupã,Marília,6131,2. De 5 a 10 mil
+3519253,Iaras,Avaré,Sorocaba,8010,2. De 5 a 10 mil
+3519303,Ibaté,São Carlos,Araraquara,32178,4. De 20 a 50 mil
+3519402,Ibirá,São José do Rio Preto,São José do Rio Preto,11690,3. De 10 a 20 mil
+3519501,Ibirarema,Ourinhos,Marília,6385,2. De 5 a 10 mil
+3519600,Ibitinga,Araraquara,Araraquara,60033,5. De 50 a 100 mil
+3519709,Ibiúna,Sorocaba,Sorocaba,75605,5. De 50 a 100 mil
+3519808,Icém,São José do Rio Preto,São José do Rio Preto,7819,2. De 5 a 10 mil
+3519907,Iepê,Presidente Prudente,Presidente Prudente,7619,2. De 5 a 10 mil
+3520004,Igaraçu do Tietê,Jaú,Bauru,23106,4. De 20 a 50 mil
+3520103,Igarapava,Ituverava,Ribeirão Preto,26212,4. De 20 a 50 mil
+3520202,Igaratá,São José dos Campos,São José dos Campos,10605,3. De 10 a 20 mil
+3520301,Iguape,Registro,Sorocaba,29115,4. De 20 a 50 mil
+3520400,Ilhabela,Caraguatatuba - Ubatuba - São Sebastião,São José dos Campos,34934,4. De 20 a 50 mil
+3520426,Ilha Comprida,Registro,Sorocaba,13419,3. De 10 a 20 mil
+3520442,Ilha Solteira,Andradina,Araçatuba,25549,4. De 20 a 50 mil
+3520509,Indaiatuba,Campinas,Campinas,255748,6. De 100 a 500 mil
+3520608,Indiana,Presidente Prudente,Presidente Prudente,5090,2. De 5 a 10 mil
+3520707,Indiaporã,Fernandópolis,São José do Rio Preto,4035,1. Até 5 mil
+3520806,Inúbia Paulista,Adamantina - Lucélia,Presidente Prudente,3615,1. Até 5 mil
+3520905,Ipaussu,Ourinhos,Marília,13712,3. De 10 a 20 mil
+3521002,Iperó,Sorocaba,Sorocaba,36459,4. De 20 a 50 mil
+3521101,Ipeúna,Rio Claro,Campinas,6831,2. De 5 a 10 mil
+3521150,Ipiguá,São José do Rio Preto,São José do Rio Preto,6761,2. De 5 a 10 mil
+3521200,Iporanga,Registro,Sorocaba,4046,1. Até 5 mil
+3521309,Ipuã,São Joaquim da Barra ¿ Orlândia,Ribeirão Preto,14454,3. De 10 a 20 mil
+3521408,Iracemápolis,Limeira,Campinas,21967,4. De 20 a 50 mil
+3521507,Irapuã,São José do Rio Preto,São José do Rio Preto,6867,2. De 5 a 10 mil
+3521606,Irapuru,Dracena,Presidente Prudente,7085,2. De 5 a 10 mil
+3521705,Itaberá,Itapeva,Sorocaba,17983,3. De 10 a 20 mil
+3521804,Itaí,Avaré,Sorocaba,25180,4. De 20 a 50 mil
+3521903,Itajobi,Catanduva,São José do Rio Preto,16989,3. De 10 a 20 mil
+3522000,Itaju,Jaú,Bauru,3618,1. Até 5 mil
+3522109,Itanhaém,Santos,São Paulo,112476,6. De 100 a 500 mil
+3522158,Itaoca,Itapeva,Sorocaba,3422,1. Até 5 mil
+3522208,Itapecerica da Serra,São Paulo,São Paulo,158522,6. De 100 a 500 mil
+3522307,Itapetininga,Itapetininga,Sorocaba,157790,6. De 100 a 500 mil
+3522406,Itapeva,Itapeva,Sorocaba,89728,5. De 50 a 100 mil
+3522505,Itapevi,São Paulo,São Paulo,232297,6. De 100 a 500 mil
+3522604,Itapira,Mogi Guaçu,Campinas,72022,5. De 50 a 100 mil
+3522653,Itapirapuã Paulista,Itapeva,Sorocaba,4306,1. Até 5 mil
+3522703,Itápolis,Araraquara,Araraquara,39493,4. De 20 a 50 mil
+3522802,Itaporanga,Itapeva,Sorocaba,14085,3. De 10 a 20 mil
+3522901,Itapuí,Jaú,Bauru,13659,3. De 10 a 20 mil
+3523008,Itapura,Andradina,Araçatuba,3979,1. Até 5 mil
+3523107,Itaquaquecetuba,São Paulo,São Paulo,369275,6. De 100 a 500 mil
+3523206,Itararé,Itapeva,Sorocaba,44438,4. De 20 a 50 mil
+3523305,Itariri,Santos,São Paulo,15528,3. De 10 a 20 mil
+3523404,Itatiba,Jundiaí,Campinas,121590,6. De 100 a 500 mil
+3523503,Itatinga,Botucatu,Bauru,19070,3. De 10 a 20 mil
+3523602,Itirapina,São Carlos,Araraquara,16148,3. De 10 a 20 mil
+3523701,Itirapuã,Franca,Ribeirão Preto,5779,2. De 5 a 10 mil
+3523800,Itobi,São José do Rio Pardo - Mococa,Campinas,8046,2. De 5 a 10 mil
+3523909,Itu,Sorocaba,Sorocaba,168240,6. De 100 a 500 mil
+3524006,Itupeva,Jundiaí,Campinas,70616,5. De 50 a 100 mil
+3524105,Ituverava,Ituverava,Ribeirão Preto,37571,4. De 20 a 50 mil
+3524204,Jaborandi,Barretos,Ribeirão Preto,6221,2. De 5 a 10 mil
+3524303,Jaboticabal,Ribeirão Preto,Ribeirão Preto,71821,5. De 50 a 100 mil
+3524402,Jacareí,São José dos Campos,São José dos Campos,240275,6. De 100 a 500 mil
+3524501,Jaci,São José do Rio Preto,São José do Rio Preto,7613,2. De 5 a 10 mil
+3524600,Jacupiranga,Registro,Sorocaba,16097,3. De 10 a 20 mil
+3524709,Jaguariúna,Campinas,Campinas,59347,5. De 50 a 100 mil
+3524808,Jales,Jales,São José do Rio Preto,48776,4. De 20 a 50 mil
+3524907,Jambeiro,São José dos Campos,São José dos Campos,6397,2. De 5 a 10 mil
+3525003,Jandira,São Paulo,São Paulo,118045,6. De 100 a 500 mil
+3525102,Jardinópolis,Ribeirão Preto,Ribeirão Preto,45282,4. De 20 a 50 mil
+3525201,Jarinu,Jundiaí,Campinas,37535,4. De 20 a 50 mil
+3525300,Jaú,Jaú,Bauru,133497,6. De 100 a 500 mil
+3525409,Jeriquara,Franca,Ribeirão Preto,3863,1. Até 5 mil
+3525508,Joanópolis,Bragança Paulista,Campinas,12815,3. De 10 a 20 mil
+3525607,João Ramalho,Presidente Prudente,Presidente Prudente,4371,1. Até 5 mil
+3525706,José Bonifácio,São José do Rio Preto,São José do Rio Preto,36633,4. De 20 a 50 mil
+3525805,Júlio Mesquita,Marília,Marília,4254,1. Até 5 mil
+3525854,Jumirim,Sorocaba,Sorocaba,3056,1. Até 5 mil
+3525904,Jundiaí,Jundiaí,Campinas,443221,6. De 100 a 500 mil
+3526001,Junqueirópolis,Dracena,Presidente Prudente,20448,4. De 20 a 50 mil
+3526100,Juquiá,Registro,Sorocaba,17154,3. De 10 a 20 mil
+3526209,Juquitiba,São Paulo,São Paulo,27404,4. De 20 a 50 mil
+3526308,Lagoinha,Taubaté - Pindamonhangaba,São José dos Campos,5083,2. De 5 a 10 mil
+3526407,Laranjal Paulista,Piracicaba,Campinas,26261,4. De 20 a 50 mil
+3526506,Lavínia,Andradina,Araçatuba,9689,2. De 5 a 10 mil
+3526605,Lavrinhas,Cruzeiro,São José dos Campos,7171,2. De 5 a 10 mil
+3526704,Leme,Araras,Campinas,98161,5. De 50 a 100 mil
+3526803,Lençóis Paulista,Bauru,Bauru,66505,5. De 50 a 100 mil
+3526902,Limeira,Limeira,Campinas,291869,6. De 100 a 500 mil
+3527009,Lindóia,Amparo,Campinas,7014,2. De 5 a 10 mil
+3527108,Lins,Lins,Bauru,74779,5. De 50 a 100 mil
+3527207,Lorena,Guaratinguetá,São José dos Campos,84855,5. De 50 a 100 mil
+3527256,Lourdes,Birigui - Penápolis,Araçatuba,1950,1. Até 5 mil
+3527306,Louveira,Jundiaí,Campinas,51847,5. De 50 a 100 mil
+3527405,Lucélia,Adamantina - Lucélia,Presidente Prudente,20061,4. De 20 a 50 mil
+3527504,Lucianópolis,Bauru,Bauru,2372,1. Até 5 mil
+3527603,Luís Antônio,Ribeirão Preto,Ribeirão Preto,12265,3. De 10 a 20 mil
+3527702,Luiziânia,Birigui - Penápolis,Araçatuba,4701,1. Até 5 mil
+3527801,Lupércio,Marília,Marília,3981,1. Até 5 mil
+3527900,Lutécia,Assis,Marília,2661,1. Até 5 mil
+3528007,Macatuba,Bauru,Bauru,16829,3. De 10 a 20 mil
+3528106,Macaubal,São José do Rio Preto,São José do Rio Preto,7481,2. De 5 a 10 mil
+3528205,Macedônia,Fernandópolis,São José do Rio Preto,3963,1. Até 5 mil
+3528304,Magda,Araçatuba,Araçatuba,3165,1. Até 5 mil
+3528403,Mairinque,Sorocaba,Sorocaba,50027,5. De 50 a 100 mil
+3528502,Mairiporã,São Paulo,São Paulo,93853,5. De 50 a 100 mil
+3528601,Manduri,Avaré,Sorocaba,9871,2. De 5 a 10 mil
+3528700,Marabá Paulista,Presidente Epitácio-Presidente Venceslau,Presidente Prudente,4573,1. Até 5 mil
+3528809,Maracaí,Assis,Marília,12673,3. De 10 a 20 mil
+3528858,Marapoama,Catanduva,São José do Rio Preto,3292,1. Até 5 mil
+3528908,Mariápolis,Adamantina - Lucélia,Presidente Prudente,3513,1. Até 5 mil
+3529005,Marília,Marília,Marília,237627,6. De 100 a 500 mil
+3529104,Marinópolis,Jales,São José do Rio Preto,1860,1. Até 5 mil
+3529203,Martinópolis,Presidente Prudente,Presidente Prudente,24881,4. De 20 a 50 mil
+3529302,Matão,Araraquara,Araraquara,79033,5. De 50 a 100 mil
+3529401,Mauá,São Paulo,São Paulo,418261,6. De 100 a 500 mil
+3529500,Mendonça,São José do Rio Preto,São José do Rio Preto,6159,2. De 5 a 10 mil
+3529609,Meridiano,Fernandópolis,São José do Rio Preto,4572,1. Até 5 mil
+3529658,Mesópolis,Jales,São José do Rio Preto,1952,1. Até 5 mil
+3529708,Miguelópolis,Ituverava,Ribeirão Preto,19441,3. De 10 a 20 mil
+3529807,Mineiros do Tietê,Jaú,Bauru,11230,3. De 10 a 20 mil
+3529906,Miracatu,Registro,Sorocaba,18553,3. De 10 a 20 mil
+3530003,Mira Estrela,Fernandópolis,São José do Rio Preto,3126,1. Até 5 mil
+3530102,Mirandópolis,Andradina,Araçatuba,27983,4. De 20 a 50 mil
+3530201,Mirante do Paranapanema,Presidente Prudente,Presidente Prudente,15917,3. De 10 a 20 mil
+3530300,Mirassol,São José do Rio Preto,São José do Rio Preto,63337,5. De 50 a 100 mil
+3530409,Mirassolândia,São José do Rio Preto,São José do Rio Preto,4669,1. Até 5 mil
+3530508,Mococa,São José do Rio Pardo - Mococa,Campinas,67681,5. De 50 a 100 mil
+3530607,Mogi das Cruzes,São Paulo,São Paulo,451505,6. De 100 a 500 mil
+3530706,Mogi Guaçu,Mogi Guaçu,Campinas,153658,6. De 100 a 500 mil
+3530805,Mogi Mirim,Mogi Guaçu,Campinas,92558,5. De 50 a 100 mil
+3530904,Mombuca,Piracicaba,Campinas,3722,1. Até 5 mil
+3531001,Monções,Araçatuba,Araçatuba,1937,1. Até 5 mil
+3531100,Mongaguá,Santos,São Paulo,61951,5. De 50 a 100 mil
+3531209,Monte Alegre do Sul,Amparo,Campinas,8627,2. De 5 a 10 mil
+3531308,Monte Alto,Ribeirão Preto,Ribeirão Preto,47574,4. De 20 a 50 mil
+3531407,Monte Aprazível,São José do Rio Preto,São José do Rio Preto,22280,4. De 20 a 50 mil
+3531506,Monte Azul Paulista,Barretos,Ribeirão Preto,18151,3. De 10 a 20 mil
+3531605,Monte Castelo,Dracena,Presidente Prudente,4222,1. Até 5 mil
+3531704,Monteiro Lobato,São José dos Campos,São José dos Campos,4138,1. Até 5 mil
+3531803,Monte Mor,Campinas,Campinas,64662,5. De 50 a 100 mil
+3531902,Morro Agudo,São Joaquim da Barra ¿ Orlândia,Ribeirão Preto,27933,4. De 20 a 50 mil
+3532009,Morungaba,Jundiaí,Campinas,13720,3. De 10 a 20 mil
+3532058,Motuca,Araraquara,Araraquara,4034,1. Até 5 mil
+3532108,Murutinga do Sul,Andradina,Araçatuba,3737,1. Até 5 mil
+3532157,Nantes,Presidente Prudente,Presidente Prudente,2660,1. Até 5 mil
+3532207,Narandiba,Presidente Prudente,Presidente Prudente,5713,2. De 5 a 10 mil
+3532306,Natividade da Serra,Taubaté - Pindamonhangaba,São José dos Campos,6999,2. De 5 a 10 mil
+3532405,Nazaré Paulista,Bragança Paulista,Campinas,18217,3. De 10 a 20 mil
+3532504,Neves Paulista,São José do Rio Preto,São José do Rio Preto,9699,2. De 5 a 10 mil
+3532603,Nhandeara,Votuporanga,São José do Rio Preto,9852,2. De 5 a 10 mil
+3532702,Nipoã,São José do Rio Preto,São José do Rio Preto,4750,1. Até 5 mil
+3532801,Nova Aliança,São José do Rio Preto,São José do Rio Preto,6693,2. De 5 a 10 mil
+3532827,Nova Campina,Itapeva,Sorocaba,8497,2. De 5 a 10 mil
+3532843,Nova Canaã Paulista,Santa Fé do Sul,São José do Rio Preto,2032,1. Até 5 mil
+3532868,Nova Castilho,Araçatuba,Araçatuba,1062,1. Até 5 mil
+3532900,Nova Europa,Araraquara,Araraquara,9311,2. De 5 a 10 mil
+3533007,Nova Granada,São José do Rio Preto,São José do Rio Preto,19419,3. De 10 a 20 mil
+3533106,Nova Guataporanga,Dracena,Presidente Prudente,2156,1. Até 5 mil
+3533205,Nova Independência,Andradina,Araçatuba,4609,1. Até 5 mil
+3533254,Novais,Catanduva,São José do Rio Preto,4412,1. Até 5 mil
+3533304,Nova Luzitânia,Araçatuba,Araçatuba,2837,1. Até 5 mil
+3533403,Nova Odessa,Campinas,Campinas,62019,5. De 50 a 100 mil
+3533502,Novo Horizonte,São José do Rio Preto,São José do Rio Preto,38324,4. De 20 a 50 mil
+3533601,Nuporanga,São Joaquim da Barra ¿ Orlândia,Ribeirão Preto,7391,2. De 5 a 10 mil
+3533700,Ocauçu,Marília,Marília,4331,1. Até 5 mil
+3533809,Óleo,Avaré,Sorocaba,2512,1. Até 5 mil
+3533908,Olímpia,Barretos,Ribeirão Preto,55074,5. De 50 a 100 mil
+3534005,Onda Verde,São José do Rio Preto,São José do Rio Preto,4771,1. Até 5 mil
+3534104,Oriente,Marília,Marília,6085,2. De 5 a 10 mil
+3534203,Orindiúva,São José do Rio Preto,São José do Rio Preto,6024,2. De 5 a 10 mil
+3534302,Orlândia,São Joaquim da Barra ¿ Orlândia,Ribeirão Preto,38319,4. De 20 a 50 mil
+3534401,Osasco,São Paulo,São Paulo,728615,7. Mais de 500 mil
+3534500,Oscar Bressane,Marília,Marília,2470,1. Até 5 mil
+3534609,Osvaldo Cruz,Adamantina - Lucélia,Presidente Prudente,31272,4. De 20 a 50 mil
+3534708,Ourinhos,Ourinhos,Marília,103970,6. De 100 a 500 mil
+3534757,Ouroeste,Fernandópolis,São José do Rio Preto,10294,3. De 10 a 20 mil
+3534807,Ouro Verde,Dracena,Presidente Prudente,7779,2. De 5 a 10 mil
+3534906,Pacaembu,Adamantina - Lucélia,Presidente Prudente,14877,3. De 10 a 20 mil
+3535002,Palestina,São José do Rio Preto,São José do Rio Preto,11476,3. De 10 a 20 mil
+3535101,Palmares Paulista,Catanduva,São José do Rio Preto,9650,2. De 5 a 10 mil
+3535200,Palmeira d'Oeste,Jales,São José do Rio Preto,8903,2. De 5 a 10 mil
+3535309,Palmital,Assis,Marília,19594,3. De 10 a 20 mil
+3535408,Panorama,Dracena,Presidente Prudente,14964,3. De 10 a 20 mil
+3535507,Paraguaçu Paulista,Assis,Marília,41120,4. De 20 a 50 mil
+3535606,Paraibuna,São José dos Campos,São José dos Campos,17667,3. De 10 a 20 mil
+3535705,Paraíso,Catanduva,São José do Rio Preto,6099,2. De 5 a 10 mil
+3535804,Paranapanema,Avaré,Sorocaba,19395,3. De 10 a 20 mil
+3535903,Paranapuã,Jales,São José do Rio Preto,4031,1. Até 5 mil
+3536000,Parapuã,Tupã,Marília,10580,3. De 10 a 20 mil
+3536109,Pardinho,Botucatu,Bauru,7153,2. De 5 a 10 mil
+3536208,Pariquera-Açu,Registro,Sorocaba,19233,3. De 10 a 20 mil
+3536257,Parisi,Votuporanga,São José do Rio Preto,2892,1. Até 5 mil
+3536307,Patrocínio Paulista,Franca,Ribeirão Preto,14512,3. De 10 a 20 mil
+3536406,Paulicéia,Dracena,Presidente Prudente,7955,2. De 5 a 10 mil
+3536505,Paulínia,Campinas,Campinas,110537,6. De 100 a 500 mil
+3536570,Paulistânia,Bauru,Bauru,2090,1. Até 5 mil
+3536604,Paulo de Faria,São José do Rio Preto,São José do Rio Preto,7400,2. De 5 a 10 mil
+3536703,Pederneiras,Bauru,Bauru,44827,4. De 20 a 50 mil
+3536802,Pedra Bela,Bragança Paulista,Campinas,6557,2. De 5 a 10 mil
+3536901,Pedranópolis,Fernandópolis,São José do Rio Preto,2787,1. Até 5 mil
+3537008,Pedregulho,Franca,Ribeirão Preto,15525,3. De 10 a 20 mil
+3537107,Pedreira,Campinas,Campinas,43112,4. De 20 a 50 mil
+3537156,Pedrinhas Paulista,Assis,Marília,2804,1. Até 5 mil
+3537206,Pedro de Toledo,Santos,São Paulo,11281,3. De 10 a 20 mil
+3537305,Penápolis,Birigui - Penápolis,Araçatuba,61679,5. De 50 a 100 mil
+3537404,Pereira Barreto,Andradina,Araçatuba,24095,4. De 20 a 50 mil
+3537503,Pereiras,Tatuí,Sorocaba,8737,2. De 5 a 10 mil
+3537602,Peruíbe,Santos,São Paulo,68352,5. De 50 a 100 mil
+3537701,Piacatu,Birigui - Penápolis,Araçatuba,5519,2. De 5 a 10 mil
+3537800,Piedade,Sorocaba,Sorocaba,52970,5. De 50 a 100 mil
+3537909,Pilar do Sul,Sorocaba,Sorocaba,27619,4. De 20 a 50 mil
+3538006,Pindamonhangaba,Taubaté - Pindamonhangaba,São José dos Campos,165428,6. De 100 a 500 mil
+3538105,Pindorama,Catanduva,São José do Rio Preto,14542,3. De 10 a 20 mil
+3538204,Pinhalzinho,Bragança Paulista,Campinas,15224,3. De 10 a 20 mil
+3538303,Piquerobi,Presidente Epitácio-Presidente Venceslau,Presidente Prudente,3264,1. Até 5 mil
+3538501,Piquete,Guaratinguetá,São José dos Campos,12490,3. De 10 a 20 mil
+3538600,Piracaia,Bragança Paulista,Campinas,26029,4. De 20 a 50 mil
+3538709,Piracicaba,Piracicaba,Campinas,423323,6. De 100 a 500 mil
+3538808,Piraju,Piraju,Marília,29436,4. De 20 a 50 mil
+3538907,Pirajuí,Bauru,Bauru,22431,4. De 20 a 50 mil
+3539004,Pirangi,Catanduva,São José do Rio Preto,10885,3. De 10 a 20 mil
+3539103,Pirapora do Bom Jesus,São Paulo,São Paulo,18370,3. De 10 a 20 mil
+3539202,Pirapozinho,Presidente Prudente,Presidente Prudente,25348,4. De 20 a 50 mil
+3539301,Pirassununga,São Carlos,Araraquara,73545,5. De 50 a 100 mil
+3539400,Piratininga,Bauru,Bauru,15108,3. De 10 a 20 mil
+3539509,Pitangueiras,Ribeirão Preto,Ribeirão Preto,33674,4. De 20 a 50 mil
+3539608,Planalto,São José do Rio Preto,São José do Rio Preto,4389,1. Até 5 mil
+3539707,Platina,Assis,Marília,3025,1. Até 5 mil
+3539806,Poá,São Paulo,São Paulo,103765,6. De 100 a 500 mil
+3539905,Poloni,São José do Rio Preto,São José do Rio Preto,5592,2. De 5 a 10 mil
+3540002,Pompéia,Marília,Marília,20196,4. De 20 a 50 mil
+3540101,Pongaí,Lins,Bauru,3395,1. Até 5 mil
+3540200,Pontal,Ribeirão Preto,Ribeirão Preto,37607,4. De 20 a 50 mil
+3540259,Pontalinda,Jales,São José do Rio Preto,4127,1. Até 5 mil
+3540309,Pontes Gestal,Votuporanga,São José do Rio Preto,2387,1. Até 5 mil
+3540408,Populina,Jales,São José do Rio Preto,4127,1. Até 5 mil
+3540507,Porangaba,Tatuí,Sorocaba,10451,3. De 10 a 20 mil
+3540606,Porto Feliz,Sorocaba,Sorocaba,56497,5. De 50 a 100 mil
+3540705,Porto Ferreira,São Carlos,Araraquara,52649,5. De 50 a 100 mil
+3540754,Potim,Guaratinguetá,São José dos Campos,20392,4. De 20 a 50 mil
+3540804,Potirendaba,São José do Rio Preto,São José do Rio Preto,18496,3. De 10 a 20 mil
+3540853,Pracinha,Adamantina - Lucélia,Presidente Prudente,2578,1. Até 5 mil
+3540903,Pradópolis,Ribeirão Preto,Ribeirão Preto,17078,3. De 10 a 20 mil
+3541000,Praia Grande,Santos,São Paulo,349935,6. De 100 a 500 mil
+3541059,Pratânia,Botucatu,Bauru,5126,2. De 5 a 10 mil
+3541109,Presidente Alves,Bauru,Bauru,3804,1. Até 5 mil
+3541208,Presidente Bernardes,Presidente Prudente,Presidente Prudente,14490,3. De 10 a 20 mil
+3541307,Presidente Epitácio,Presidente Epitácio-Presidente Venceslau,Presidente Prudente,39505,4. De 20 a 50 mil
+3541406,Presidente Prudente,Presidente Prudente,Presidente Prudente,225668,6. De 100 a 500 mil
+3541505,Presidente Venceslau,Presidente Epitácio-Presidente Venceslau,Presidente Prudente,35201,4. De 20 a 50 mil
+3541604,Promissão,Lins,Bauru,35131,4. De 20 a 50 mil
+3541653,Quadra,Tatuí,Sorocaba,3405,1. Até 5 mil
+3541703,Quatá,Presidente Prudente,Presidente Prudente,13163,3. De 10 a 20 mil
+3541802,Queiroz,Tupã,Marília,3265,1. Até 5 mil
+3541901,Queluz,Cruzeiro,São José dos Campos,9159,2. De 5 a 10 mil
+3542008,Quintana,Marília,Marília,7038,2. De 5 a 10 mil
+3542107,Rafard,Piracicaba,Campinas,8965,2. De 5 a 10 mil
+3542206,Rancharia,Presidente Prudente,Presidente Prudente,28588,4. De 20 a 50 mil
+3542305,Redenção da Serra,Taubaté - Pindamonhangaba,São José dos Campos,4494,1. Até 5 mil
+3542404,Regente Feijó,Presidente Prudente,Presidente Prudente,20145,4. De 20 a 50 mil
+3542503,Reginópolis,Bauru,Bauru,7662,2. De 5 a 10 mil
+3542602,Registro,Registro,Sorocaba,59947,5. De 50 a 100 mil
+3542701,Restinga,Franca,Ribeirão Preto,6404,2. De 5 a 10 mil
+3542800,Ribeira,Itapeva,Sorocaba,3132,1. Até 5 mil
+3542909,Ribeirão Bonito,São Carlos,Araraquara,10989,3. De 10 a 20 mil
+3543006,Ribeirão Branco,Itapeva,Sorocaba,18627,3. De 10 a 20 mil
+3543105,Ribeirão Corrente,Franca,Ribeirão Preto,4608,1. Até 5 mil
+3543204,Ribeirão do Sul,Ourinhos,Marília,4677,1. Até 5 mil
+3543238,Ribeirão dos Índios,Presidente Prudente,Presidente Prudente,2025,1. Até 5 mil
+3543253,Ribeirão Grande,Itapeva,Sorocaba,7450,2. De 5 a 10 mil
+3543303,Ribeirão Pires,São Paulo,São Paulo,115559,6. De 100 a 500 mil
+3543402,Ribeirão Preto,Ribeirão Preto,Ribeirão Preto,698642,7. Mais de 500 mil
+3543501,Riversul,Itapeva,Sorocaba,5599,2. De 5 a 10 mil
+3543600,Rifaina,Franca,Ribeirão Preto,4049,1. Até 5 mil
+3543709,Rincão,Araraquara,Araraquara,9098,2. De 5 a 10 mil
+3543808,Rinópolis,Tupã,Marília,9259,2. De 5 a 10 mil
+3543907,Rio Claro,Rio Claro,Campinas,201418,6. De 100 a 500 mil
+3544004,Rio das Pedras,Piracicaba,Campinas,31328,4. De 20 a 50 mil
+3544103,Rio Grande da Serra,São Paulo,São Paulo,44170,4. De 20 a 50 mil
+3544202,Riolândia,Votuporanga,São José do Rio Preto,10309,3. De 10 a 20 mil
+3544251,Rosana,Presidente Prudente,Presidente Prudente,17440,3. De 10 a 20 mil
+3544301,Roseira,Guaratinguetá,São José dos Campos,10832,3. De 10 a 20 mil
+3544400,Rubiácea,Araçatuba,Araçatuba,2700,1. Até 5 mil
+3544509,Rubinéia,Santa Fé do Sul,São José do Rio Preto,3833,1. Até 5 mil
+3544608,Sabino,Lins,Bauru,5112,2. De 5 a 10 mil
+3544707,Sagres,Adamantina - Lucélia,Presidente Prudente,2474,1. Até 5 mil
+3544806,Sales,São José do Rio Preto,São José do Rio Preto,6437,2. De 5 a 10 mil
+3544905,Sales Oliveira,São Joaquim da Barra ¿ Orlândia,Ribeirão Preto,11411,3. De 10 a 20 mil
+3545001,Salesópolis,São Paulo,São Paulo,15202,3. De 10 a 20 mil
+3545100,Salmourão,Adamantina - Lucélia,Presidente Prudente,4808,1. Até 5 mil
+3545159,Saltinho,Piracicaba,Campinas,8161,2. De 5 a 10 mil
+3545209,Salto,Sorocaba,Sorocaba,134319,6. De 100 a 500 mil
+3545308,Salto de Pirapora,Sorocaba,Sorocaba,43748,4. De 20 a 50 mil
+3545407,Salto Grande,Ourinhos,Marília,9050,2. De 5 a 10 mil
+3545506,Sandovalina,Presidente Prudente,Presidente Prudente,3645,1. Até 5 mil
+3545605,Santa Adélia,Catanduva,São José do Rio Preto,14018,3. De 10 a 20 mil
+3545704,Santa Albertina,Jales,São José do Rio Preto,6393,2. De 5 a 10 mil
+3545803,Santa Bárbara d'Oeste,Campinas,Campinas,183347,6. De 100 a 500 mil
+3546009,Santa Branca,São José dos Campos,São José dos Campos,13975,3. De 10 a 20 mil
+3546108,Santa Clara d'Oeste,Santa Fé do Sul,São José do Rio Preto,2598,1. Até 5 mil
+3546207,Santa Cruz da Conceição,Araras,Campinas,4277,1. Até 5 mil
+3546256,Santa Cruz da Esperança,Ribeirão Preto,Ribeirão Preto,2116,1. Até 5 mil
+3546306,Santa Cruz das Palmeiras,São João da Boa Vista,Campinas,28864,4. De 20 a 50 mil
+3546405,Santa Cruz do Rio Pardo,Ourinhos,Marília,46442,4. De 20 a 50 mil
+3546504,Santa Ernestina,Ribeirão Preto,Ribeirão Preto,6118,2. De 5 a 10 mil
+3546603,Santa Fé do Sul,Santa Fé do Sul,São José do Rio Preto,34794,4. De 20 a 50 mil
+3546702,Santa Gertrudes,Rio Claro,Campinas,23611,4. De 20 a 50 mil
+3546801,Santa Isabel,São Paulo,São Paulo,53174,5. De 50 a 100 mil
+3546900,Santa Lúcia,Araraquara,Araraquara,7149,2. De 5 a 10 mil
+3547007,Santa Maria da Serra,Piracicaba,Campinas,5243,2. De 5 a 10 mil
+3547106,Santa Mercedes,Dracena,Presidente Prudente,2956,1. Até 5 mil
+3547205,Santana da Ponte Pensa,Santa Fé do Sul,São José do Rio Preto,1670,1. Até 5 mil
+3547304,Santana de Parnaíba,São Paulo,São Paulo,154105,6. De 100 a 500 mil
+3547403,Santa Rita d'Oeste,Santa Fé do Sul,São José do Rio Preto,2733,1. Até 5 mil
+3547502,Santa Rita do Passa Quatro,São Carlos,Araraquara,24833,4. De 20 a 50 mil
+3547601,Santa Rosa de Viterbo,Ribeirão Preto,Ribeirão Preto,23411,4. De 20 a 50 mil
+3547650,Santa Salete,Jales,São José do Rio Preto,1645,1. Até 5 mil
+3547700,Santo Anastácio,Presidente Prudente,Presidente Prudente,17963,3. De 10 a 20 mil
+3547809,Santo André,São Paulo,São Paulo,748919,7. Mais de 500 mil
+3547908,Santo Antônio da Alegria,Ribeirão Preto,Ribeirão Preto,6775,2. De 5 a 10 mil
+3548005,Santo Antônio de Posse,Campinas,Campinas,23244,4. De 20 a 50 mil
+3548054,Santo Antônio do Aracanguá,Araçatuba,Araçatuba,8379,2. De 5 a 10 mil
+3548104,Santo Antônio do Jardim,São João da Boa Vista,Campinas,6126,2. De 5 a 10 mil
+3548203,Santo Antônio do Pinhal,Taubaté - Pindamonhangaba,São José dos Campos,7133,2. De 5 a 10 mil
+3548302,Santo Expedito,Presidente Prudente,Presidente Prudente,3000,1. Até 5 mil
+3548401,Santópolis do Aguapeí,Birigui - Penápolis,Araçatuba,3899,1. Até 5 mil
+3548500,Santos,Santos,São Paulo,418608,6. De 100 a 500 mil
+3548609,São Bento do Sapucaí,Taubaté - Pindamonhangaba,São José dos Campos,11674,3. De 10 a 20 mil
+3548708,São Bernardo do Campo,São Paulo,São Paulo,810729,7. Mais de 500 mil
+3548807,São Caetano do Sul,São Paulo,São Paulo,165655,6. De 100 a 500 mil
+3548906,São Carlos,São Carlos,Araraquara,254857,6. De 100 a 500 mil
+3549003,São Francisco,Jales,São José do Rio Preto,2602,1. Até 5 mil
+3549102,São João da Boa Vista,São João da Boa Vista,Campinas,92547,5. De 50 a 100 mil
+3549201,São João das Duas Pontes,Fernandópolis,São José do Rio Preto,2580,1. Até 5 mil
+3549250,São João de Iracema,Fernandópolis,São José do Rio Preto,1846,1. Até 5 mil
+3549300,São João do Pau d'Alho,Dracena,Presidente Prudente,2242,1. Até 5 mil
+3549409,São Joaquim da Barra,São Joaquim da Barra ¿ Orlândia,Ribeirão Preto,48558,4. De 20 a 50 mil
+3549508,São José da Bela Vista,Franca,Ribeirão Preto,7626,2. De 5 a 10 mil
+3549607,São José do Barreiro,Cruzeiro,São José dos Campos,3853,1. Até 5 mil
+3549706,São José do Rio Pardo,São José do Rio Pardo - Mococa,Campinas,52205,5. De 50 a 100 mil
+3549805,São José do Rio Preto,São José do Rio Preto,São José do Rio Preto,480393,6. De 100 a 500 mil
+3549904,São José dos Campos,São José dos Campos,São José dos Campos,697054,7. Mais de 500 mil
+3549953,São Lourenço da Serra,São Paulo,São Paulo,16067,3. De 10 a 20 mil
+3550001,São Luiz do Paraitinga,Taubaté - Pindamonhangaba,São José dos Campos,10337,3. De 10 a 20 mil
+3550100,São Manuel,Botucatu,Bauru,37289,4. De 20 a 50 mil
+3550209,São Miguel Arcanjo,Itapetininga,Sorocaba,32039,4. De 20 a 50 mil
+3550308,São Paulo,São Paulo,São Paulo,11451999,7. Mais de 500 mil
+3550407,São Pedro,Piracicaba,Campinas,38256,4. De 20 a 50 mil
+3550506,São Pedro do Turvo,Ourinhos,Marília,7217,2. De 5 a 10 mil
+3550605,São Roque,Sorocaba,Sorocaba,79484,5. De 50 a 100 mil
+3550704,São Sebastião,Caraguatatuba - Ubatuba - São Sebastião,São José dos Campos,81595,5. De 50 a 100 mil
+3550803,São Sebastião da Grama,São José do Rio Pardo - Mococa,Campinas,10441,3. De 10 a 20 mil
+3550902,São Simão,Ribeirão Preto,Ribeirão Preto,13442,3. De 10 a 20 mil
+3551009,São Vicente,Santos,São Paulo,329911,6. De 100 a 500 mil
+3551108,Sarapuí,Sorocaba,Sorocaba,10369,3. De 10 a 20 mil
+3551207,Sarutaiá,Piraju,Marília,3704,1. Até 5 mil
+3551306,Sebastianópolis do Sul,Votuporanga,São José do Rio Preto,3130,1. Até 5 mil
+3551405,Serra Azul,Ribeirão Preto,Ribeirão Preto,12746,3. De 10 a 20 mil
+3551504,Serrana,Ribeirão Preto,Ribeirão Preto,43909,4. De 20 a 50 mil
+3551603,Serra Negra,Amparo,Campinas,29894,4. De 20 a 50 mil
+3551702,Sertãozinho,Ribeirão Preto,Ribeirão Preto,126887,6. De 100 a 500 mil
+3551801,Sete Barras,Registro,Sorocaba,12730,3. De 10 a 20 mil
+3551900,Severínia,Barretos,Ribeirão Preto,14576,3. De 10 a 20 mil
+3552007,Silveiras,Cruzeiro,São José dos Campos,6186,2. De 5 a 10 mil
+3552106,Socorro,Bragança Paulista,Campinas,40122,4. De 20 a 50 mil
+3552205,Sorocaba,Sorocaba,Sorocaba,723682,7. Mais de 500 mil
+3552304,Sud Mennucci,Andradina,Araçatuba,7355,2. De 5 a 10 mil
+3552403,Sumaré,Campinas,Campinas,279545,6. De 100 a 500 mil
+3552502,Suzano,São Paulo,São Paulo,307429,6. De 100 a 500 mil
+3552551,Suzanápolis,Jales,São José do Rio Preto,3408,1. Até 5 mil
+3552601,Tabapuã,Catanduva,São José do Rio Preto,11323,3. De 10 a 20 mil
+3552700,Tabatinga,Araraquara,Araraquara,14769,3. De 10 a 20 mil
+3552809,Taboão da Serra,São Paulo,São Paulo,273542,6. De 100 a 500 mil
+3552908,Taciba,Presidente Prudente,Presidente Prudente,6260,2. De 5 a 10 mil
+3553005,Taguaí,Avaré,Sorocaba,12669,3. De 10 a 20 mil
+3553104,Taiaçu,Barretos,Ribeirão Preto,5677,2. De 5 a 10 mil
+3553203,Taiúva,Barretos,Ribeirão Preto,6548,2. De 5 a 10 mil
+3553302,Tambaú,São João da Boa Vista,Campinas,21435,4. De 20 a 50 mil
+3553401,Tanabi,São José do Rio Preto,São José do Rio Preto,25265,4. De 20 a 50 mil
+3553500,Tapiraí,Sorocaba,Sorocaba,7996,2. De 5 a 10 mil
+3553609,Tapiratiba,São José do Rio Pardo - Mococa,Campinas,11816,3. De 10 a 20 mil
+3553658,Taquaral,Barretos,Ribeirão Preto,2619,1. Até 5 mil
+3553708,Taquaritinga,Araraquara,Araraquara,52260,5. De 50 a 100 mil
+3553807,Taquarituba,Avaré,Sorocaba,24350,4. De 20 a 50 mil
+3553856,Taquarivaí,Itapeva,Sorocaba,6876,2. De 5 a 10 mil
+3553906,Tarabai,Presidente Prudente,Presidente Prudente,6536,2. De 5 a 10 mil
+3553955,Tarumã,Assis,Marília,14882,3. De 10 a 20 mil
+3554003,Tatuí,Tatuí,Sorocaba,123942,6. De 100 a 500 mil
+3554102,Taubaté,Taubaté - Pindamonhangaba,São José dos Campos,310739,6. De 100 a 500 mil
+3554201,Tejupá,Piraju,Marília,4127,1. Até 5 mil
+3554300,Teodoro Sampaio,Presidente Prudente,Presidente Prudente,22173,4. De 20 a 50 mil
+3554409,Terra Roxa,Barretos,Ribeirão Preto,7904,2. De 5 a 10 mil
+3554508,Tietê,Sorocaba,Sorocaba,37663,4. De 20 a 50 mil
+3554607,Timburi,Piraju,Marília,2464,1. Até 5 mil
+3554656,Torre de Pedra,Tatuí,Sorocaba,2046,1. Até 5 mil
+3554706,Torrinha,Jaú,Bauru,9335,2. De 5 a 10 mil
+3554755,Trabiju,Araraquara,Araraquara,1682,1. Até 5 mil
+3554805,Tremembé,Taubaté - Pindamonhangaba,São José dos Campos,51173,5. De 50 a 100 mil
+3554904,Três Fronteiras,Santa Fé do Sul,São José do Rio Preto,6804,2. De 5 a 10 mil
+3554953,Tuiuti,Bragança Paulista,Campinas,6778,2. De 5 a 10 mil
+3555000,Tupã,Tupã,Marília,63928,5. De 50 a 100 mil
+3555109,Tupi Paulista,Dracena,Presidente Prudente,15854,3. De 10 a 20 mil
+3555208,Turiúba,Birigui - Penápolis,Araçatuba,1818,1. Até 5 mil
+3555307,Turmalina,Jales,São José do Rio Preto,1669,1. Até 5 mil
+3555356,Ubarana,São José do Rio Preto,São José do Rio Preto,5365,2. De 5 a 10 mil
+3555406,Ubatuba,Caraguatatuba - Ubatuba - São Sebastião,São José dos Campos,92981,5. De 50 a 100 mil
+3555505,Ubirajara,Bauru,Bauru,5132,2. De 5 a 10 mil
+3555604,Uchoa,São José do Rio Preto,São José do Rio Preto,10394,3. De 10 a 20 mil
+3555703,União Paulista,São José do Rio Preto,São José do Rio Preto,1603,1. Até 5 mil
+3555802,Urânia,Jales,São José do Rio Preto,8833,2. De 5 a 10 mil
+3555901,Uru,Lins,Bauru,1387,1. Até 5 mil
+3556008,Urupês,São José do Rio Preto,São José do Rio Preto,13744,3. De 10 a 20 mil
+3556107,Valentim Gentil,Votuporanga,São José do Rio Preto,14098,3. De 10 a 20 mil
+3556206,Valinhos,Campinas,Campinas,126373,6. De 100 a 500 mil
+3556305,Valparaíso,Araçatuba,Araçatuba,24241,4. De 20 a 50 mil
+3556354,Vargem,Bragança Paulista,Campinas,10512,3. De 10 a 20 mil
+3556404,Vargem Grande do Sul,São João da Boa Vista,Campinas,40133,4. De 20 a 50 mil
+3556453,Vargem Grande Paulista,São Paulo,São Paulo,50415,5. De 50 a 100 mil
+3556503,Várzea Paulista,Jundiaí,Campinas,115771,6. De 100 a 500 mil
+3556602,Vera Cruz,Marília,Marília,10176,3. De 10 a 20 mil
+3556701,Vinhedo,Campinas,Campinas,76540,5. De 50 a 100 mil
+3556800,Viradouro,Barretos,Ribeirão Preto,17414,3. De 10 a 20 mil
+3556909,Vista Alegre do Alto,Catanduva,São José do Rio Preto,8109,2. De 5 a 10 mil
+3556958,Vitória Brasil,Jales,São José do Rio Preto,1794,1. Até 5 mil
+3557006,Votorantim,Sorocaba,Sorocaba,127923,6. De 100 a 500 mil
+3557105,Votuporanga,Votuporanga,São José do Rio Preto,96634,5. De 50 a 100 mil
+3557154,Zacarias,Birigui - Penápolis,Araçatuba,2692,1. Até 5 mil
+3557204,Chavantes,Ourinhos,Marília,12211,3. De 10 a 20 mil
+3557303,Estiva Gerbi,Mogi Guaçu,Campinas,11295,3. De 10 a 20 mil
